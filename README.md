@@ -31,7 +31,7 @@ The repository follows a clean, modular structure for easy maintenance:
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-  git clone https://github.com/stefandaniel98/Event-Planner.git
+   git clone https://github.com/stefandaniel98/Event-Planner.git
   
 2. Install dependencies:
    pip install -r requirements.txt
